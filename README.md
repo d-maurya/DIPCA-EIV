@@ -15,7 +15,8 @@ The above papers discuss the identification algorithm. You may refer our followi
 
 There are several other works which extend the use of DIPCA algorithm for classical systems (non-EIV):
 
-- `ARX Model Identification using Generalized Spectral Decomposition`, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, To appear in 24th International Symposium on Mathematical Theory of Networks and Systems (<a href="https://mtns2020.eng.cam.ac.uk/">MTNS 2020</a>) <br>
--  `Identification of Output-Error (OE) Models using Generalized Spectral Decomposition`, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, In Fifth Indian Control Conference (ICC 2019) (pp. 28-33). IEEE. (Won the <a href="http://icc.org.in/2019/best-student-paper-award/">Best Student Paper Award</a>) <a href="https://ieeexplore.ieee.org/abstract/document/8715582/">[Paper]</a> <br>
-- `Identification of MISO Systems in Minimal Realization Form`, Chaithanya K. Donda, **Deepak Maurya**, Arun K. Tangirala, Shankar Narasimhan, To appear in Sixth Automatic Control and Dynamical Optimization Society (ACDOS 2020), IFAC <br>
+- `ARX Model Identification using Generalized Spectral Decomposition`, Deepak Maurya, Arun K. Tangirala, Shankar Narasimhan, To appear in 24th International Symposium on Mathematical Theory of Networks and Systems (<a href="https://mtns2020.eng.cam.ac.uk/">MTNS 2020</a>) <br>
+-  `Identification of Output-Error (OE) Models using Generalized Spectral Decomposition`, Deepak Maurya, Arun K. Tangirala, Shankar Narasimhan, In Fifth Indian Control Conference (ICC 2019) (pp. 28-33). IEEE. (Won the <a href="http://icc.org.in/2019/best-student-paper-award/">Best Student Paper Award</a>) <a href="https://ieeexplore.ieee.org/abstract/document/8715582/">[Paper]</a> <br>
+- `Identification of MISO Systems in Minimal Realization Form`, Chaithanya K. Donda, Deepak Maurya, Arun K. Tangirala, Shankar Narasimhan, To appear in Sixth Automatic Control and Dynamical Optimization Society (ACDOS 2020), IFAC <br>
 
+An updated list of similar works can be accessed from <a href="https://d-maurya.github.io/web/">my personal webpage </a> <br>
