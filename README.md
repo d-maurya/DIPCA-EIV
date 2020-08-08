@@ -13,7 +13,7 @@ The above papers discuss the identification algorithm. You may refer our followi
 
 - `Optimal Filtering and Residual Analysis in Errors-in-variables Model Identification`, Vipul Mann, Deepak Maurya, Arun K. Tangirala, Shankar Narasimhan, 2020, Industrial & Engineering Chemistry Research, 59(5), pp.1953-65 <a href="https://pubs.acs.org/doi/10.1021/acs.iecr.9b04561">[Paper]</a> <br>
 
-There are several other works which extend the use of DIPCA algorithm for classical systems (non-EIV):
+There are several other works which extend the use of DIPCA algorithm for classical systems (non-EIV) with OE and ARX model, MISO systems:
 
 - `ARX Model Identification using Generalized Spectral Decomposition`, Deepak Maurya, Arun K. Tangirala, Shankar Narasimhan, To appear in 24th International Symposium on Mathematical Theory of Networks and Systems (<a href="https://mtns2020.eng.cam.ac.uk/">MTNS 2020</a>) <br>
 -  `Identification of Output-Error (OE) Models using Generalized Spectral Decomposition`, Deepak Maurya, Arun K. Tangirala, Shankar Narasimhan, In Fifth Indian Control Conference (ICC 2019) (pp. 28-33). IEEE. (Won the <a href="http://icc.org.in/2019/best-student-paper-award/">Best Student Paper Award</a>) <a href="https://ieeexplore.ieee.org/abstract/document/8715582/">[Paper]</a> <br>
