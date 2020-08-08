@@ -1,5 +1,5 @@
 # DIPCA-EIV
-This repo contains the implementation of dynamic iterative PCA proposed for identification of a system where the input and output measurements are corrupted with Gaussian white noise. Feel free to check out some of the other closely related and latest works on DIPCA algorithm from <a href="https://d-maurya.github.io/web/">my webpage </a> <br>.
+This repo contains the implementation of dynamic iterative PCA proposed for identification of a system where the input and output measurements are corrupted with Gaussian white noise. Feel free to check out some of the other closely related and latest works on DIPCA algorithm from <a href="https://d-maurya.github.io/web/">my webpage </a>. 
 
 Please refer the demo_dipca.m, readme.txt files for usgae of the dipca function. You can also type the following command to get the documentation in Matlab: 
 - doc dipca_ref <br>
@@ -25,4 +25,4 @@ There are several other works which extend the use of DIPCA algorithm for classi
 -  `Identification of Output-Error (OE) Models using Generalized Spectral Decomposition`, Deepak Maurya, Arun K. Tangirala, Shankar Narasimhan, In Fifth Indian Control Conference (ICC 2019) (pp. 28-33). IEEE. (Won the <a href="http://icc.org.in/2019/best-student-paper-award/">Best Student Paper Award</a>) <a href="https://ieeexplore.ieee.org/abstract/document/8715582/">[Paper]</a> <br>
 - `Identification of MISO Systems in Minimal Realization Form`, Chaithanya K. Donda, Deepak Maurya, Arun K. Tangirala, Shankar Narasimhan, To appear in Sixth Automatic Control and Dynamical Optimization Society (ACDOS 2020), IFAC <br>
 
-An updated list of related works and their code can be accessed from <a href="https://d-maurya.github.io/web/">my webpage </a> <br>.
+An updated list of related works and their code can be accessed from <a href="https://d-maurya.github.io/web/">my webpage </a>. 
