@@ -2,7 +2,7 @@
 This code can be downloaded from https://github.com/d-maurya/DIPCA-EIV
 and codes for other closely related works can be found on https://d-maurya.github.io/web/
  
-We provide the documentation here but please refer the demo.m file to
+We provide the documentation here but please refer the demo_dipca.m file to
 understand the usage of this function. We have also provided a readme.txt
 file to understand the usage and working of this function. You can type
 the following command to get the documentation in Matlab: 
