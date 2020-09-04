@@ -1,7 +1,7 @@
 # DIPCA-EIV
 This repo contains the implementation of dynamic iterative PCA proposed for identification of a system where the input and output measurements are corrupted with Gaussian white noise. Feel free to check out some of the other closely related and latest works on DIPCA algorithm from <a href="https://d-maurya.github.io/web/">my webpage</a>. 
 
-Please refer the demo_dipca.m, readme.txt files for usgae of the dipca function. You can also type the following command to get the documentation in Matlab: 
+Please refer the demo_dipca.m, readme.txt files for usage of the dipca function. You can also type the following command to get the documentation in Matlab: 
 - doc dipca_ref <br>
 - help dipca_ref <br>
 
